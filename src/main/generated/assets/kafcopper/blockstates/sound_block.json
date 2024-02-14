@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "kafcopper:block/sound_block"
+    }
+  }
+}

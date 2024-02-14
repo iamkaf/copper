@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "kafcopper:reinforced_copper_helmet",
+    "kafcopper:reinforced_copper_chestplate",
+    "kafcopper:reinforced_copper_leggings",
+    "kafcopper:reinforced_copper_boots"
+  ]
+}

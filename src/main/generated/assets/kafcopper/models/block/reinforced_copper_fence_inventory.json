@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_inventory",
+  "textures": {
+    "texture": "kafcopper:block/reinforced_copper_block"
+  }
+}

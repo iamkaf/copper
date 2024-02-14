@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "kafcopper:block/reinforced_copper_block"
+    }
+  }
+}

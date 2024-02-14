@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_left_open",
+  "textures": {
+    "bottom": "kafcopper:block/reinforced_copper_door_bottom",
+    "top": "kafcopper:block/reinforced_copper_door_top"
+  }
+}

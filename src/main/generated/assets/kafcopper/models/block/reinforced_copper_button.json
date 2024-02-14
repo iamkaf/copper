@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": "kafcopper:block/reinforced_copper_block"
+  }
+}

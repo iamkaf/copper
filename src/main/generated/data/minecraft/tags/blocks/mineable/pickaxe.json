@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "kafcopper:kaferium_block",
+    "kafcopper:sound_block",
+    "kafcopper:kafuel_block",
+    "kafcopper:reinforced_copper_block",
+    "kafcopper:kaferium_ore",
+    "kafcopper:deepslate_kaferium_ore",
+    "kafcopper:reinforced_copper_stairs",
+    "kafcopper:reinforced_copper_slab",
+    "kafcopper:reinforced_copper_button",
+    "kafcopper:reinforced_copper_pressure_plate",
+    "kafcopper:reinforced_copper_fence",
+    "kafcopper:reinforced_copper_fence_gate",
+    "kafcopper:reinforced_copper_wall",
+    "kafcopper:reinforced_copper_door",
+    "kafcopper:reinforced_copper_trapdoor"
+  ]
+}

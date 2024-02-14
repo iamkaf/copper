@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "kafcopper:item/reinforced_copper_shovel"
+  }
+}

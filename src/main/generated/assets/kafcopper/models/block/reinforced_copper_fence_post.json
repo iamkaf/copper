@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_post",
+  "textures": {
+    "texture": "kafcopper:block/reinforced_copper_block"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "item.kafcopper.debug_stick": "Debug Stick",
+  "block.kafcopper.sound_block": "Sound Block",
+
+  "item.kafcopper.copper_apple": "Copper Apple",
+
+  "item.kafcopper.copper_iron_alloy": "Copper Iron Alloy",
+  "item.kafcopper.reinforced_copper_ingot": "Reinforced Copper Ingot",
+  "block.kafcopper.reinforced_copper_block": "Reinforced Copper Block",
+  "block.kafcopper.reinforced_copper_stairs": "Reinforced Copper stairs",
+  "block.kafcopper.reinforced_copper_slab": "Reinforced Copper slab",
+  "block.kafcopper.reinforced_copper_button": "Reinforced Copper button",
+  "block.kafcopper.reinforced_copper_pressure_plate": "Reinforced Copper pressure_plate",
+  "block.kafcopper.reinforced_copper_fence": "Reinforced Copper fence",
+  "block.kafcopper.reinforced_copper_fence_gate": "Reinforced Copper fence_gate",
+  "block.kafcopper.reinforced_copper_wall": "Reinforced Copper wall",
+  "block.kafcopper.reinforced_copper_door": "Reinforced Copper door",
+  "block.kafcopper.reinforced_copper_trapdoor": "Reinforced Copper trapdoor",
+  "item.kafcopper.reinforced_copper_pickaxe": "Reinforced Copper pickaxe",
+  "item.kafcopper.reinforced_copper_axe": "Reinforced Copper axe",
+  "item.kafcopper.reinforced_copper_shovel": "Reinforced Copper shovel",
+  "item.kafcopper.reinforced_copper_sword": "Reinforced Copper sword",
+  "item.kafcopper.reinforced_copper_hoe": "Reinforced Copper hoe",
+  "item.kafcopper.reinforced_copper_helmet": "Reinforced Copper helmet",
+  "item.kafcopper.reinforced_copper_chestplate": "Reinforced Copper chestplate",
+  "item.kafcopper.reinforced_copper_leggings": "Reinforced Copper leggings",
+  "item.kafcopper.reinforced_copper_boots": "Reinforced Copper boots",
+
+  "item.kafcopper.tomato": "Tomato",
+  "item.kafcopper.tomato_seeds": "Tomato Seeds",
+  "item.kafcopper.corn": "Corn",
+  "item.kafcopper.corn_seeds": "Corn Seeds",
+
+  "block.kafcopper.cotton_candy_flower": "Cotton Candy Flower",
+
+  "entity.minecraft.villager.sound_master": "Soundmaster",
+  "sounds.kafcopper.uwu": "UwU",
+  "sounds.kafcopper.emerald_disc": "A Bright Day",
+  "item.kafcopper.emerald_disc": "Emerald Day",
+  "item.kafcopper.emerald_disc.desc": "A Bright Day",
+
+  "item.kafcopper.kaferium": "Kaferium",
+  "block.kafcopper.kaferium_ore": "Kaferium Ore",
+  "block.kafcopper.deepslate_kaferium_ore": "Deepslate Kaferium Ore",
+  "block.kafcopper.kaferium_block": "Kaferium Block",
+  "item.kafcopper.kaferium_staff": "Kaferium Staff",
+
+  "item.kafcopper.kafuel": "Kafuel",
+  "block.kafcopper.kafuel_block": "Kafuel Block",
+
+  "itemgroup.copper": "Kaf Copper"
+}

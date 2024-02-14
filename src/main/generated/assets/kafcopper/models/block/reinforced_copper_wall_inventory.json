@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "kafcopper:block/reinforced_copper_block"
+  }
+}

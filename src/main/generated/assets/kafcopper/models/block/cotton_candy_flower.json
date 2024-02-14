@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "kafcopper:block/cotton_candy_flower"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "copper",
+  "ingredient": {
+    "item": "kafcopper:copper_iron_alloy"
+  },
+  "result": "kafcopper:reinforced_copper_ingot"
+}

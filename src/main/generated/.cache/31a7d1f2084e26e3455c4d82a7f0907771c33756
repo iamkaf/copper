@@ -1,0 +1,8 @@
+// 1.20.1	2024-02-14T14:23:34.5395536	Kaf Copper/Tags for minecraft:block
+e90af9a0b6119370941719e279f67beb5b401671 data\minecraft\tags\blocks\needs_stone_tool.json
+79d006c043e95c67aef9b39f4ccce6d235124614 data\kafcopper\tags\blocks\debug_stick_detectable_blocks.json
+d7583cdb06e4a1f55ea5674c6e3c7afb33e62e96 data\fabric\tags\blocks\needs_tool_level_4.json
+b346e2456eba8b0c8f4cbca170f4ea4529db7b42 data\minecraft\tags\blocks\mineable\pickaxe.json
+030d0dcc8415ceb0e2b629d7012a07f0b6d1aa4d data\minecraft\tags\blocks\fence_gates.json
+2aaa8911c9fc6f51148e4b020a75ee2de8452f54 data\minecraft\tags\blocks\walls.json
+799cb408bc345588975b315455099e061fd2eed4 data\minecraft\tags\blocks\fences.json

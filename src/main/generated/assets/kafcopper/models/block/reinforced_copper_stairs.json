@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "kafcopper:block/reinforced_copper_block",
+    "side": "kafcopper:block/reinforced_copper_block",
+    "top": "kafcopper:block/reinforced_copper_block"
+  }
+}

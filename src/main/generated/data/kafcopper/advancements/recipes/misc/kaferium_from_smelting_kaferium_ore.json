@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_kaferium_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "kafcopper:kaferium_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:kaferium_from_smelting_kaferium_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_kaferium_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:kaferium_from_smelting_kaferium_ore"
+    ]
+  },
+  "sends_telemetry_event": false
+}

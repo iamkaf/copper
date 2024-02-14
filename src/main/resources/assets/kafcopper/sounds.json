@@ -1,0 +1,46 @@
+{
+  "uwu": {
+    "subtitle": "sounds.kafcopper.uwu",
+    "sounds": [
+      "kafcopper:uwu"
+    ]
+  },
+  "sound_block_break": {
+    "subtitle": "kafcopper.sound_block_break",
+    "sounds": [
+      "kafcopper:sound_block_break"
+    ]
+  },
+  "sound_block_step": {
+    "subtitle": "kafcopper.sound_block_step",
+    "sounds": [
+      "kafcopper:sound_block_step"
+    ]
+  },
+  "sound_block_place": {
+    "subtitle": "kafcopper.sound_block_place",
+    "sounds": [
+      "kafcopper:sound_block_place"
+    ]
+  },
+  "sound_block_hit": {
+    "subtitle": "kafcopper.sound_block_hit",
+    "sounds": [
+      "kafcopper:sound_block_hit"
+    ]
+  },
+  "sound_block_fall": {
+    "subtitle": "kafcopper.sound_block_fall",
+    "sounds": [
+      "kafcopper:sound_block_fall"
+    ]
+  },
+  "emerald_disc": {
+    "sounds": [
+      {
+        "name": "kafcopper:emerald_disc",
+        "stream": true
+      }
+    ]
+  }
+}

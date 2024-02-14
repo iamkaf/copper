@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "kafcopper:kaferium_ore",
+    "kafcopper:deepslate_kaferium_ore",
+    "#minecraft:diamond_ores"
+  ]
+}
